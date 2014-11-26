@@ -1,0 +1,915 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/sandra/Documents/CPULAB_&Solution/LAB3/LAB3_1
+vboot_state
+Z0 !s110 1415003525
+!i10b 1
+!s100 RcIhP0_U`JC:imi:VVT4@2
+IDGJ:JlOY6:i_<7Qih4^N[3
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 dC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test
+w1118200006
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/boot_state.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/boot_state.v
+Z3 L0 21
+Z4 OP;L;10.3c;59
+r1
+!s85 0
+31
+!s108 1415003525.675000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/boot_state.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/boot_state.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vbranch_unit
+R0
+!i10b 1
+!s100 khYlOI5kS9:YoC8N2FjH^3
+I;R@llL3FAhz1]eE9Jz=Gj2
+R1
+R2
+w1104042416
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/branch_unit.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/branch_unit.v
+Z6 L0 22
+R4
+r1
+!s85 0
+31
+!s108 1415003525.820000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/branch_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/branch_unit.v|
+!s101 -O0
+!i113 1
+R5
+vcontrol_unit
+R0
+!i10b 1
+!s100 4WGl8J=UKHHG:0Eb2NYG]2
+I5ZB8^czR]@1[IM^7Y<K4;1
+R1
+R2
+w1352122990
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/control_unit.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/control_unit.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1415003525.899000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/control_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/control_unit.v|
+!s101 -O0
+!i113 1
+R5
+vcpu_core
+R0
+!i10b 1
+!s100 Yg5O?U29;^Q?0VcbgUmKJ2
+I:K0eej_>n[L8Y^6]d8MbX0
+R1
+R2
+w1409554568
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_core.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_core.v
+R6
+R4
+r1
+!s85 0
+31
+!s108 1415003525.983000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_core.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_core.v|
+!s101 -O0
+!i113 1
+R5
+vcpu_decode5to32
+Z7 !s110 1415003526
+!i10b 1
+!s100 RPU7OHoAFHN@n;1B0PbE^0
+IXQhKa1I50aNAo0G80TYY71
+R1
+R2
+w1112005734
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_decode5to32.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_decode5to32.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1415003526.040000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_decode5to32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_decode5to32.v|
+!s101 -O0
+!i113 1
+R5
+vcpu_ex
+R7
+!i10b 1
+!s100 9zI0g:4JTKjIX0Q<WlS_O3
+I[g3XoT3H7]noIOiZK?nem1
+R1
+R2
+w1408947412
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_ex.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_ex.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1415003526.165000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_ex.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_ex.v|
+!s101 -O0
+!i113 1
+R5
+vcpu_id
+R7
+!i10b 1
+!s100 7kIbjWNb7E^:`Xk53@?B93
+IO7Of7]d^@`36TlooH^Fhf0
+R1
+R2
+w1376469078
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_id.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_id.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1415003526.221000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_id.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_id.v|
+!s101 -O0
+!i113 1
+R5
+vcpu_if
+R7
+!i10b 1
+!s100 Eh]7Sf=eO[MP2zJ4EoQeI1
+IV7JTQ9]iNGbeTQFTO@mRc0
+R1
+R2
+w1409554410
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_if.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_if.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1415003526.292000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_if.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_if.v|
+!s101 -O0
+!i113 1
+R5
+vcpu_mem
+R7
+!i10b 1
+!s100 VnF=j<b49R]nH3bFogiXU3
+IGTBM`aQ[ifQdJn?4>KB_h1
+R1
+R2
+w1352121546
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_mem.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_mem.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1415003526.383000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_mem.v|
+!s101 -O0
+!i113 1
+R5
+vcpu_reg1_ne
+R7
+!i10b 1
+!s100 :]Th>DdQo6k:Tl4k^mA8?2
+IWb?EnoOHZmaAoOOf<R;@m1
+R1
+R2
+w1351844628
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg1_ne.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg1_ne.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1415003526.475000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg1_ne.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg1_ne.v|
+!s101 -O0
+!i113 1
+R5
+vcpu_reg2_ne
+R7
+!i10b 1
+!s100 jdSA>kP4JUP6@1PNIXVbV0
+IT_;IDMJm0IBl_E?mBKcLL0
+R1
+R2
+w1351844738
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg2_ne.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg2_ne.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1415003526.595000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg2_ne.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg2_ne.v|
+!s101 -O0
+!i113 1
+R5
+vcpu_reg32_ne
+Z8 !s110 1415003527
+!i10b 1
+!s100 @VPcMeQ194B;ROC>JWoXG0
+IiL7QY7gI54KE0b3=DIAL51
+R1
+R2
+w1408954948
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg32_ne.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg32_ne.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1415003527.259000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg32_ne.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg32_ne.v|
+!s101 -O0
+!i113 1
+R5
+vcpu_reg32_ne_ex
+R8
+!i10b 1
+!s100 PCM0EI3R]`PdKPc_lTX8@0
+I9j?86LNY2FM62fFUzAA6=1
+R1
+R2
+w1376467758
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg32_ne_ex.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg32_ne_ex.v
+L0 6
+R4
+r1
+!s85 0
+31
+!s108 1415003527.312000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg32_ne_ex.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg32_ne_ex.v|
+!s101 -O0
+!i113 1
+R5
+vcpu_reg3_ne
+R7
+!i10b 1
+!s100 G_H1jHz^WH_<>A1]e?e@h3
+I_[NXU9ckUOS3OWJ]]`0hB1
+R1
+R2
+w1351844698
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg3_ne.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg3_ne.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1415003526.685000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg3_ne.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg3_ne.v|
+!s101 -O0
+!i113 1
+R5
+vcpu_reg4_ne
+R7
+!i10b 1
+!s100 f>SF21Z95oGb;JoGmAFO01
+I>BFe;Dzn=H8MnAF;k8m3H0
+R1
+R2
+w1353590656
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg4_ne.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg4_ne.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1415003526.774000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg4_ne.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg4_ne.v|
+!s101 -O0
+!i113 1
+R5
+vcpu_reg5_ne
+R7
+!i10b 1
+!s100 @f3eG5F3MJ6mI[X9[[MoM1
+IVOQj7QmFDg94EXPHdOYPZ1
+R1
+R2
+w1351844814
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg5_ne.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg5_ne.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1415003526.863000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg5_ne.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg5_ne.v|
+!s101 -O0
+!i113 1
+R5
+vcpu_reg8_ne
+R8
+!i10b 1
+!s100 8hYBj4jzh>0m5R6_KICHm1
+IZm9TPY56CSkM:a>PBghDo3
+R1
+R2
+w1118815364
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg8_ne.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg8_ne.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1415003526.984000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg8_ne.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg8_ne.v|
+!s101 -O0
+!i113 1
+R5
+vcpu_reg8x4_ne
+R8
+!i10b 1
+!s100 hM]L5omUK8P]MjRl33KJB3
+IVYdM5d:On?Pc7:M[VeZ>c0
+R1
+R2
+w1119425314
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg8x4_ne.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg8x4_ne.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1415003527.112000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg8x4_ne.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg8x4_ne.v|
+!s101 -O0
+!i113 1
+R5
+vcpu_reg8x4_ne_cp
+R8
+!i10b 1
+!s100 03f6i=5GM4V_MRVJV>Lb12
+IL3XRki<CZO3ojjh[zJWEX0
+R1
+R2
+w1352186192
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg8x4_ne_cp.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg8x4_ne_cp.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1415003527.184000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg8x4_ne_cp.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_reg8x4_ne_cp.v|
+!s101 -O0
+!i113 1
+R5
+vcpu_regbank
+R8
+!i10b 1
+!s100 j:O?RUbB2AdR7=;J8=ZL_2
+I]e:08LO>TK]Rh3aO_Dj8L3
+R1
+R2
+w1352989460
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_regbank.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_regbank.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1415003527.367000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_regbank.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_regbank.v|
+!s101 -O0
+!i113 1
+R5
+vcpu_top
+Z9 !s110 1415003530
+!i10b 1
+!s100 nP9d:6LTf]M8RR59b>N1Z0
+IEN4YM[NLREHLa[gB@WkJ`1
+R1
+R2
+Z10 w1409555904
+Fcpu_top.v
+Z11 8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/testbench.v
+Z12 FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/testbench.v
+R3
+R4
+r1
+!s85 0
+31
+Z13 !s108 1415003530.137000
+Z14 !s107 cpu_top.v|memory.v|timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/testbench.v|
+Z15 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/testbench.v|
+!s101 -O0
+!i113 1
+R5
+vcpu_wb
+R8
+!i10b 1
+!s100 Mb[V97H7^=`I6[BcBN_6U2
+I:DlSOllUT;ado9gbX?ZQ42
+R1
+R2
+w1350991320
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_wb.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_wb.v
+R6
+R4
+r1
+!s85 0
+31
+!s108 1415003527.524000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_wb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_wb.v|
+!s101 -O0
+!i113 1
+R5
+vcpu_wb_alignment
+R8
+!i10b 1
+!s100 2=b>mgLO_bZEJbdFJ;Tl>2
+IFe]l2[]]X]n`g=ZgoPP570
+R1
+R2
+w1114574050
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_wb_alignment.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_wb_alignment.v
+R6
+R4
+r1
+!s85 0
+31
+!s108 1415003527.596000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_wb_alignment.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/cpu_wb_alignment.v|
+!s101 -O0
+!i113 1
+R5
+vforward_unit
+R8
+!i10b 1
+!s100 ;zejcF0@ZS0b48eSI6X@U3
+IMhB2adQ00X@18m];CKLA?2
+R1
+R2
+w1104042558
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/forward_unit.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/forward_unit.v
+R6
+R4
+r1
+!s85 0
+31
+!s108 1415003527.693000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/forward_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/forward_unit.v|
+!s101 -O0
+!i113 1
+R5
+vfu_alu
+R8
+!i10b 1
+!s100 0fYES@Il`deY@kZ`zAeXm0
+IWUhUV91AQ=>=@6coI;^WF1
+R1
+R2
+w1104042570
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_alu.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_alu.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1415003527.806000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_alu.v|
+!s101 -O0
+!i113 1
+R5
+vfu_cla4
+R8
+!i10b 1
+!s100 Vah[P`VF8;Qz4P^gAzb[a3
+Iz:Pf=QeS775N63AHaOiQV2
+R1
+R2
+w1104042582
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_cla4.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_cla4.v
+Z16 L0 23
+R4
+r1
+!s85 0
+31
+!s108 1415003527.882000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_cla4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_cla4.v|
+!s101 -O0
+!i113 1
+R5
+vfu_cla4v
+R8
+!i10b 1
+!s100 H[l=Sd`@<GnRz_@YJ9YEn2
+Idz]B1`hn]<]YZ]LCJcWLA0
+R1
+R2
+w1104042590
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_cla4v.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_cla4v.v
+Z17 L0 24
+R4
+r1
+!s85 0
+31
+!s108 1415003527.960000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_cla4v.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_cla4v.v|
+!s101 -O0
+!i113 1
+R5
+vfu_csa16
+Z18 !s110 1415003528
+!i10b 1
+!s100 GQgON:d9XY37<O]?K7KP;2
+IE5F4@SV=Gf3NGHMKJQ_Ko2
+R1
+R2
+w1104042612
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_csa16.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_csa16.v
+R16
+R4
+r1
+!s85 0
+31
+!s108 1415003528.248000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_csa16.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_csa16.v|
+!s101 -O0
+!i113 1
+R5
+vfu_csa16v
+R18
+!i10b 1
+!s100 A7=oRkRzgebV_?2LKFV2E0
+IoP:bcik]^;8Ai>gG]``_J0
+R1
+R2
+w1104042618
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_csa16v.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_csa16v.v
+R17
+R4
+r1
+!s85 0
+31
+!s108 1415003528.300000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_csa16v.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_csa16v.v|
+!s101 -O0
+!i113 1
+R5
+vfu_csa32
+R18
+!i10b 1
+!s100 oINPFd6;e_922NTMMlS2Z0
+IJk69f3f`1d?BYbP8V`Hbi0
+R1
+R2
+w1104042628
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_csa32.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_csa32.v
+R16
+R4
+r1
+!s85 0
+31
+!s108 1415003528.394000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_csa32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_csa32.v|
+!s101 -O0
+!i113 1
+R5
+vfu_csa34
+R18
+!i10b 1
+!s100 1f5e=@f[kJ<LozHh42TTD3
+IAcH=G7gX2WDjNHgBXV;ok2
+R1
+R2
+w1119124992
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_csa34.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_csa34.v
+R16
+R4
+r1
+!s85 0
+31
+!s108 1415003528.532000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_csa34.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_csa34.v|
+!s101 -O0
+!i113 1
+R5
+vfu_csa8
+R18
+!i10b 1
+!s100 >a_Wz9i:ejljcKP5T[4cK3
+I92e4iKDjUbozF;:k>9gho3
+R1
+R2
+w1104042598
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_csa8.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_csa8.v
+R16
+R4
+r1
+!s85 0
+31
+!s108 1415003528.065000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_csa8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_csa8.v|
+!s101 -O0
+!i113 1
+R5
+vfu_csa8v
+R18
+!i10b 1
+!s100 g;l;<9I:GLD0g=IW`ZR_A2
+I46CZmABPEm9d9lzbgEY2f3
+R1
+R2
+w1104042604
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_csa8v.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_csa8v.v
+R17
+R4
+r1
+!s85 0
+31
+!s108 1415003528.177000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_csa8v.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_csa8v.v|
+!s101 -O0
+!i113 1
+R5
+vfu_shifter
+Z19 !s110 1415003529
+!i10b 1
+!s100 :OJW?1Z<zGaWiFK=8^dTW3
+I<;LKoKJ7P[>DPhnZ2bXK`3
+R1
+R2
+w1118199444
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_shifter.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_shifter.v
+R16
+R4
+r1
+!s85 0
+31
+!s108 1415003528.894000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_shifter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_shifter.v|
+!s101 -O0
+!i113 1
+R5
+vfu_shifter_mask
+R19
+!i10b 1
+!s100 4^PYBC9iPfkIZULPe2f`;0
+I4@?4R9[<Bd@7;5=86h`>U3
+R1
+R2
+w1115894118
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_shifter_mask.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_shifter_mask.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1415003529.164000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_shifter_mask.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/fu_shifter_mask.v|
+!s101 -O0
+!i113 1
+R5
+vhazard_det_unit
+R19
+!i10b 1
+!s100 io9FR7oZCfQR1omalziX?1
+I?5kS?idG6Y:3>46VC`iXo3
+R1
+R2
+w1346745760
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/hazard_det_unit.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/hazard_det_unit.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1415003529.327000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/hazard_det_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/hazard_det_unit.v|
+!s101 -O0
+!i113 1
+R5
+vinterrupt_controller
+R19
+!i10b 1
+!s100 Y;LoDd]T>gA6cca=li`SJ0
+IA6TceU2Ne1FGoR;>Ug6CW0
+R1
+R2
+w1409569204
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/interrupt_controller.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/interrupt_controller.v
+L0 5
+R4
+r1
+!s85 0
+31
+!s108 1415003529.533000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/interrupt_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/interrupt_controller.v|
+!s101 -O0
+!i113 1
+R5
+vmemory
+R9
+!i10b 1
+!s100 mh5Qknz7JSWlG`2cWK]Dh1
+Id9835Kn:j5OMWF5Qj<9J82
+R1
+R2
+R10
+Fmemory.v
+R11
+R12
+L0 20
+R4
+r1
+!s85 0
+31
+R13
+R14
+R15
+!s101 -O0
+!i113 1
+R5
+vmul_decode
+R19
+!i10b 1
+!s100 O0VDih10]LMcT7]CemMV?2
+I_2T@0EcPClK5<YdSHhLc10
+R1
+R2
+w1102328406
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/mul_decode.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/mul_decode.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1415003529.847000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/mul_decode.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/mul_decode.v|
+!s101 -O0
+!i113 1
+R5
+vmul_fsm
+R19
+!i10b 1
+!s100 WLVj^7i:WE3?o]e70z^o_1
+IB]8HolLV]5dGI0`>oGC1`2
+R1
+R2
+w1119119948
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/mul_fsm.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/mul_fsm.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1415003529.898000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/mul_fsm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/mul_fsm.v|
+!s101 -O0
+!i113 1
+R5
+vmul_reg1_ne
+R19
+!i10b 1
+!s100 z3aLR8[cc=XH]Dl1`XgF71
+IfM]SeWh]f?K:baOC?]z3A1
+R1
+R2
+w1119119850
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/mul_reg1_ne.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/mul_reg1_ne.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1415003529.966000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/mul_reg1_ne.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/mul_reg1_ne.v|
+!s101 -O0
+!i113 1
+R5
+vmul_top
+R9
+!i10b 1
+!s100 P2<>R?77BLDJkDCCjiHDB1
+IC]W=Jdn6bIRgmEnX63JB12
+R1
+R2
+w1119419010
+8C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/mul_top.v
+FC:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/mul_top.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1415003530.043000
+!s107 timescale.v|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/mul_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sandra/Documents/2014_LAB5/MIPS_cpu_test/mul_top.v|
+!s101 -O0
+!i113 1
+R5
+vtestbench
+R9
+!i10b 1
+!s100 Cd=m=VNiD;hX^cH0h1eR73
+I<oI@X8[:1ge2f7:eE4kZC1
+R1
+R2
+R10
+R11
+R12
+R17
+R4
+r1
+!s85 0
+31
+R13
+R14
+R15
+!s101 -O0
+!i113 1
+R5
